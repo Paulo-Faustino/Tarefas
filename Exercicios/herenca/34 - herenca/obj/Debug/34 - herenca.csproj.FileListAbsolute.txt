@@ -1,0 +1,9 @@
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Curso\34 - herenca\34 - herenca\bin\Debug\34 - herenca.exe.config
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Curso\34 - herenca\34 - herenca\bin\Debug\34 - herenca.exe
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Curso\34 - herenca\34 - herenca\bin\Debug\34 - herenca.pdb
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Curso\34 - herenca\34 - herenca\obj\Debug\34 - herenca.csprojResolveAssemblyReference.cache
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Curso\34 - herenca\34 - herenca\obj\Debug\_34___herenca.Form1.resources
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Curso\34 - herenca\34 - herenca\obj\Debug\_34___herenca.Properties.Resources.resources
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Curso\34 - herenca\34 - herenca\obj\Debug\34 - herenca.csproj.GenerateResource.Cache
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Curso\34 - herenca\34 - herenca\obj\Debug\34 - herenca.exe
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Curso\34 - herenca\34 - herenca\obj\Debug\34 - herenca.pdb
