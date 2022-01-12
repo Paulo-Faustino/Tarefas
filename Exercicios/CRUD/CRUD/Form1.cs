@@ -46,7 +46,7 @@ namespace CRUD
 
         #region exibir cursos na combobox
         // receber o curso e exibir na combobox 
-
+ 
         private void showCourse()
         {
             logica = new BLL();
@@ -99,8 +99,7 @@ namespace CRUD
 
         private void button4_Click(object sender, EventArgs e)
         {
-            Cadastrar();
-
+            Cadastrar();   
             this.btnSave.Enabled = false;
         }
 
@@ -122,7 +121,7 @@ namespace CRUD
         }
         #endregion
         //Elimar dados 
-
+        #region eliminar dados
         private void Delete()
         {
             logica = new BLL();
@@ -137,6 +136,7 @@ namespace CRUD
                 MessageBox.Show(erro.Message);
             }
         }
+        #endregion
 
         private void cleanControls()
         {
@@ -170,6 +170,7 @@ namespace CRUD
             Form1_Load(null, null);
         }
 
+        #region alterar dados
         private void alterarDados()
         {
             logica = new BLL();
@@ -191,12 +192,34 @@ namespace CRUD
             {
                 MessageBox.Show(erro.ToString());
             }
-        }
+         }
+#endregion 
 
         private void btnAlter_Click(object sender, EventArgs e)
         {
             alterarDados();
+            Form1_Load(null, null);
+            
+        }
 
+        #region pesquisar dados
+        private void researchResults()
+        {
+            logica = new BLL();
+            try
+            {
+                dataGridView1.DataSource = logica.ResearchData(txtpesquisa.Text);
+            }
+            catch(Exception erro)
+            {
+                MessageBox.Show(erro.Message);
+            }
+        }
+        #endregion
+
+        private void txtpesquisa_TextChanged(object sender, EventArgs e)
+        {
+            researchResults();
         }
     }
 }

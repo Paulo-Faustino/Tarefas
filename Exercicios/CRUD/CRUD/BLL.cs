@@ -86,5 +86,20 @@ namespace CRUD
             }
         }
         #endregion
+
+        #region pesquisar dados na tabela
+        public DataTable ResearchData(string nome)
+        {
+            prof = new DAL();
+            try
+            {
+                return prof.Research(nome);
+            }
+            catch(Exception erro)
+            {
+                throw erro;
+            }
+        }
+        #endregion
     }
 }

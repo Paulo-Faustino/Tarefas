@@ -31,6 +31,8 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.txtcodigo = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
             this.txtmorada = new System.Windows.Forms.RichTextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.cbxcurso = new System.Windows.Forms.ComboBox();
@@ -49,8 +51,8 @@
             this.label1 = new System.Windows.Forms.Label();
             this.tabPage2 = new System.Windows.Forms.TabPage();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.txtcodigo = new System.Windows.Forms.TextBox();
-            this.label7 = new System.Windows.Forms.Label();
+            this.txtpesquisa = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.groupBox1.SuspendLayout();
@@ -91,6 +93,26 @@
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Cadastro";
             this.tabPage1.Click += new System.EventHandler(this.tabPage1_Click);
+            // 
+            // txtcodigo
+            // 
+            this.txtcodigo.Location = new System.Drawing.Point(92, 93);
+            this.txtcodigo.Name = "txtcodigo";
+            this.txtcodigo.ReadOnly = true;
+            this.txtcodigo.Size = new System.Drawing.Size(69, 26);
+            this.txtcodigo.TabIndex = 17;
+            this.txtcodigo.Visible = false;
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.ForeColor = System.Drawing.Color.White;
+            this.label7.Location = new System.Drawing.Point(15, 96);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(59, 20);
+            this.label7.TabIndex = 16;
+            this.label7.Text = "Código";
+            this.label7.Visible = false;
             // 
             // txtmorada
             // 
@@ -280,6 +302,8 @@
             // tabPage2
             // 
             this.tabPage2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(126)))), ((int)(((byte)(113)))), ((int)(((byte)(11)))));
+            this.tabPage2.Controls.Add(this.label6);
+            this.tabPage2.Controls.Add(this.txtpesquisa);
             this.tabPage2.Controls.Add(this.dataGridView1);
             this.tabPage2.Location = new System.Drawing.Point(4, 29);
             this.tabPage2.Name = "tabPage2";
@@ -298,25 +322,24 @@
             this.dataGridView1.TabIndex = 2;
             this.dataGridView1.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellDoubleClick);
             // 
-            // txtcodigo
+            // txtpesquisa
             // 
-            this.txtcodigo.Location = new System.Drawing.Point(92, 93);
-            this.txtcodigo.Name = "txtcodigo";
-            this.txtcodigo.ReadOnly = true;
-            this.txtcodigo.Size = new System.Drawing.Size(69, 26);
-            this.txtcodigo.TabIndex = 17;
-            this.txtcodigo.Visible = false;
+            this.txtpesquisa.Location = new System.Drawing.Point(133, 27);
+            this.txtpesquisa.Name = "txtpesquisa";
+            this.txtpesquisa.Size = new System.Drawing.Size(279, 26);
+            this.txtpesquisa.TabIndex = 3;
+            this.txtpesquisa.TextChanged += new System.EventHandler(this.txtpesquisa_TextChanged);
             // 
-            // label7
+            // label6
             // 
-            this.label7.AutoSize = true;
-            this.label7.ForeColor = System.Drawing.Color.White;
-            this.label7.Location = new System.Drawing.Point(15, 96);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(59, 20);
-            this.label7.TabIndex = 16;
-            this.label7.Text = "Código";
-            this.label7.Visible = false;
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.ForeColor = System.Drawing.Color.White;
+            this.label6.Location = new System.Drawing.Point(25, 28);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(102, 24);
+            this.label6.TabIndex = 4;
+            this.label6.Text = "Pesquisar";
             // 
             // Form1
             // 
@@ -334,6 +357,7 @@
             this.tabPage1.PerformLayout();
             this.groupBox1.ResumeLayout(false);
             this.tabPage2.ResumeLayout(false);
+            this.tabPage2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
 
@@ -363,6 +387,8 @@
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.TextBox txtcodigo;
         private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.TextBox txtpesquisa;
     }
 }
 

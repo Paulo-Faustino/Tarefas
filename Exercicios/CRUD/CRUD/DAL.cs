@@ -15,7 +15,7 @@ namespace CRUD
         MySqlDataAdapter da = null;
         DataTable dt = null;
         DataSet ds = null;
-        MySqlDataReader dr = null;
+    
 
         #region Exibir os valores do curso na GridView
 
@@ -118,6 +118,7 @@ namespace CRUD
                 con.Open();
                 cmd.CommandText = "delete from formador where id = @codigo";
                 cmd.Parameters.AddWithValue("@codigo",codigo);
+                cmd.ExecuteNonQuery();
             }
             catch (MySqlException erro)
             {
@@ -168,8 +169,40 @@ namespace CRUD
                 con.Close();
                 con.Dispose();
             }
-            #endregion
           }
+        #endregion
 
+        #region pesquisar por nome
+        public DataTable Research(string nome)
+        {
+            con = new MySqlConnection();
+            con.ConnectionString = CONEXAO.stringConexao;
+            cmd = new MySqlCommand();
+            cmd.Connection = con;
+            da = new MySqlDataAdapter();
+            dt = new DataTable();
+            try
+            {
+                con.Open();
+                cmd.CommandText = "select * from formador where nome like '%" + nome + "%'";
+                da.SelectCommand = cmd;
+                da.Fill(dt);
+                return dt;
+            }
+            catch (MySqlException erro)
+            {
+                throw erro;
+            }
+            catch(Exception erro)
+            {
+                throw erro;
+            }
+            finally
+            {
+                con.Close();
+            }
         }
+        #endregion
+
+    }
 }
