@@ -1,0 +1,5 @@
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_8\exerc_8\bin\Debug\exerc_8.exe.config
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_8\exerc_8\bin\Debug\exerc_8.exe
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_8\exerc_8\bin\Debug\exerc_8.pdb
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_8\exerc_8\obj\Debug\exerc_8.exe
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_8\exerc_8\obj\Debug\exerc_8.pdb

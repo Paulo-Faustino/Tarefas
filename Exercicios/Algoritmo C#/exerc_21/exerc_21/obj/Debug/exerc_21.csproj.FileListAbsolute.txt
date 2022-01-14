@@ -1,0 +1,5 @@
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_21\exerc_21\bin\Debug\exerc_21.exe.config
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_21\exerc_21\bin\Debug\exerc_21.exe
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_21\exerc_21\bin\Debug\exerc_21.pdb
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_21\exerc_21\obj\Debug\exerc_21.exe
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_21\exerc_21\obj\Debug\exerc_21.pdb

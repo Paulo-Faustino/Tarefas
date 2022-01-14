@@ -1,0 +1,5 @@
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_19\exerc_19\bin\Debug\exerc_19.exe.config
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_19\exerc_19\bin\Debug\exerc_19.exe
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_19\exerc_19\bin\Debug\exerc_19.pdb
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_19\exerc_19\obj\Debug\exerc_19.exe
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_19\exerc_19\obj\Debug\exerc_19.pdb

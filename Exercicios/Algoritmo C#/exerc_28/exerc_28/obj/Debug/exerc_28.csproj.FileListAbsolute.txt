@@ -1,0 +1,5 @@
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_28\exerc_28\bin\Debug\exerc_28.exe.config
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_28\exerc_28\bin\Debug\exerc_28.exe
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_28\exerc_28\bin\Debug\exerc_28.pdb
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_28\exerc_28\obj\Debug\exerc_28.exe
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_28\exerc_28\obj\Debug\exerc_28.pdb

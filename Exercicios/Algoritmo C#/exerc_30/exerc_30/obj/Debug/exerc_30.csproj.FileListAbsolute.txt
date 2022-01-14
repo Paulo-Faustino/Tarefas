@@ -1,0 +1,6 @@
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_30\exerc_30\bin\Debug\exerc_30.exe.config
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_30\exerc_30\bin\Debug\exerc_30.exe
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_30\exerc_30\bin\Debug\exerc_30.pdb
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_30\exerc_30\obj\Debug\exerc_30.csprojResolveAssemblyReference.cache
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_30\exerc_30\obj\Debug\exerc_30.exe
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_30\exerc_30\obj\Debug\exerc_30.pdb

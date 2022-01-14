@@ -1,0 +1,5 @@
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_9\exerc_9\bin\Debug\exerc_9.exe.config
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_9\exerc_9\bin\Debug\exerc_9.exe
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_9\exerc_9\bin\Debug\exerc_9.pdb
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_9\exerc_9\obj\Debug\exerc_9.exe
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_9\exerc_9\obj\Debug\exerc_9.pdb

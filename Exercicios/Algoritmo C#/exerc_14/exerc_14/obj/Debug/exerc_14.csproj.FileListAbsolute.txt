@@ -1,0 +1,6 @@
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_14\exerc_14\bin\Debug\exerc_14.exe.config
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_14\exerc_14\bin\Debug\exerc_14.exe
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_14\exerc_14\bin\Debug\exerc_14.pdb
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_14\exerc_14\obj\Debug\exerc_14.csprojResolveAssemblyReference.cache
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_14\exerc_14\obj\Debug\exerc_14.exe
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_14\exerc_14\obj\Debug\exerc_14.pdb

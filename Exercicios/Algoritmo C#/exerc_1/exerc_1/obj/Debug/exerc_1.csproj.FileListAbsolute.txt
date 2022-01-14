@@ -1,0 +1,6 @@
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_1\exerc_1\bin\Debug\exerc_1.exe.config
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_1\exerc_1\bin\Debug\exerc_1.exe
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_1\exerc_1\bin\Debug\exerc_1.pdb
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_1\exerc_1\obj\Debug\exerc_1.csprojResolveAssemblyReference.cache
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_1\exerc_1\obj\Debug\exerc_1.exe
+C:\Users\Paulo Baião Faustino\Documents\Visual Studio 2015\Projects\Meus Projectos\exerc_1\exerc_1\obj\Debug\exerc_1.pdb
